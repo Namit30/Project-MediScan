@@ -8,11 +8,11 @@ from streamlit_lottie import st_lottie
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:\\Users\\nishi\\Desktop\\project\\trained_model.sav', 'rb'))
+diabetes_model = pickle.load(open('trained_model.sav', 'rb'))
 
-heart_disease_model = pickle.load(open('C:\\Users\\nishi\\Desktop\\project\\heart_disease\\heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('C:\\Users\\nishi\\Desktop\\project\\parkinsoz\\parkinsons_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('parkinsons_model.sav', 'rb'))
 
 
 
