@@ -50,10 +50,6 @@ Run the Application:
 streamlit run app.py
 ```
 
-# Mediscan
-
-Mediscan is a machine learning-based detection system designed for predicting the likelihood of diseases such as diabetes, heart disease, and Parkinson's disease. This application uses advanced predictive models to analyze medical data and provide insights into the health conditions of users.
-
 ## Usage
 
 ### Data Input
